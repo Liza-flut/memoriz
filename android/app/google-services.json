@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "766654879465",
+    "project_id": "durak-online-5beee",
+    "storage_bucket": "durak-online-5beee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766654879465:android:2b811119569049067ec278",
+        "android_client_info": {
+          "package_name": "com.example.memoriz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyyz-dw34LxFJiOEJO2urclNFeNIs_xO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766654879465:android:af6ab7e23f8c6baa7ec278",
+        "android_client_info": {
+          "package_name": "com.example.tq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyyz-dw34LxFJiOEJO2urclNFeNIs_xO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766654879465:android:6a206928cb1629e47ec278",
+        "android_client_info": {
+          "package_name": "com.memoriz.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyyz-dw34LxFJiOEJO2urclNFeNIs_xO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
